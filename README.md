@@ -9,7 +9,7 @@ This repository contains code for processing lidar data and performing linear re
 
 ## Features
 
-- **catalog.R**: Includes R code for loading, manipulating, and visualizing lidar point clouds. You can perform various operations such as filtering, segmentation, and feature extraction on the point cloud data.
+- **catalog.R**: Includes R code for loading, manipulating, and visualizing lidar point clouds.
 
 - **regression.py**: Implements linear regression to model relationships between variables. Uses RFE to select features.
 
